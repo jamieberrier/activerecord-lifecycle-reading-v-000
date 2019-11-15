@@ -38,6 +38,7 @@ group :development, :test do
   gem 'capybara'
   gem 'database_cleaner'
   gem 'rb-readline'
+  gem 'web-console'
 end
 
 group :development do
